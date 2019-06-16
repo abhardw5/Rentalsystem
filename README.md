@@ -1,4 +1,4 @@
-# Rentalsystem
+# Property Rental System based on Cloud
 
 "Property Rental System based on Cloud" is used for simple reservation & rental service. Customers can check the available rental unit. The online rental portal is a webpage where house owners, clients, customers can exchange information effectively and inexpensively. It provides user-friendly interface, satisfying the needs of the consumers. Also, it employs a new strategy that facilitates easy management of rental houses. 
 
